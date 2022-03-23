@@ -15,7 +15,7 @@
     <maven.compiler.target>${java.version}</maven.compiler.target>
     <maven.compiler.release>${java.version}</maven.compiler.release>
 
-    <tetris>1.1.2</tetris>
+    <tetris>2.0.1</tetris>
     <junit>5.6.2</junit>
   </properties>
 
